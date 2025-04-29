@@ -12,11 +12,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\Catalogo.CrossCutting\Catalogo.CrossCutting.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Catalogo.CrossCutting\Catalogo.CrossCutting.csproj" />
+    <Folder Include="Controllers\" />
   </ItemGroup>
 
 </Project>
