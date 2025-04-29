@@ -93,8 +93,6 @@ Implementa as dependências técnicas e os contratos definidos nas camadas super
     
 *   **EntitiesConfiguration**: Mapeamento das entidades com o banco de dados via Fluent API.
     
-*   **Migrations**: Histórico das migrações do EF Core.
-    
 *   **Repositories**: Implementações concretas dos repositórios do domínio.
 
 ## 📌 Observações
